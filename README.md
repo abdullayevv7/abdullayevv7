@@ -5,8 +5,8 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** I'm studying at IT park
-🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future
+💻 **Profession:** I'm studying at IT park  
+🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future 
 🎓 **Fields I Teach:** Python. HTML and CSS 
 
 ---
