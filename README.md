@@ -5,8 +5,8 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** I'm studying at IT park 
-🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
+💻 **Profession:** I'm studying at IT park
+🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future
 🎓 **Fields I Teach:** Python. HTML and CSS 
 
 ---
@@ -23,12 +23,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 💻 IDEs and Editors
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
